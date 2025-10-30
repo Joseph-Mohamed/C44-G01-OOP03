@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoSessionTwoOOP", "DemoSessionTwoOOP\DemoSessionTwoOOP.csproj", "{8393052C-7DBA-4809-B351-9949B22CBCEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8393052C-7DBA-4809-B351-9949B22CBCEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8393052C-7DBA-4809-B351-9949B22CBCEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8393052C-7DBA-4809-B351-9949B22CBCEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8393052C-7DBA-4809-B351-9949B22CBCEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E84BECEB-2EBA-4504-B6BD-BB2852610460}
+	EndGlobalSection
+EndGlobal
